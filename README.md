@@ -1,6 +1,14 @@
 # The-Engineering-Commons-Podcast-Downloader
 A simple script to download all the episodes of The Engineering Commons Podcast
 
+# Current Episodes
+
+**NOTE:** All the episodes listed are updated as of the last commit, simply run the downloader script again to fetch new links. This may require deleting the current download_links if more episodes come out in the future.  
+
+All the current episodes can be found in [ep_links.txt](out\ep_links.txt) 
+
+All the current episodes available as links to **.mp3** files can be found in [download_links.txt](out\download_links.txt) 
+
 # Installation
 
 ### Python Version

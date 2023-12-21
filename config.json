@@ -1,3 +1,6 @@
 {
-    "BROWSER_PATH": "file path to your browser executable"
+    "BROWSER_PATH": "file path to your browser executable",
+    "EPISODE_LINK_PATH": "file path storing the links to the episodes",
+    "EPISODE_DOWNLOAD_LINK_PATH": "file path storing the download links of all the episodes",
+    "MP3_OUTPUT_PATH": "folder path to download all the mp3 files of the episodes"
 }
