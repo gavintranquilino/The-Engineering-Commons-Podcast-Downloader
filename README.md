@@ -35,14 +35,6 @@ pip install -r requirements.txt
 ### Configuration File
 Open the [config.json](./config.json) file, and add the specified values.
 
-#### Downloading your own Chrome Drivers
-
-Chrome webdriver is used for its popularity.
-
-In order to use an instance of Chrome, download from [Google Chrome Labs](https://googlechromelabs.github.io/chrome-for-testing/)
-
-Alternatively, the driver binaries can be found from [Chromium.org](https://sites.google.com/chromium.org/driver/)
-
 
 
 
