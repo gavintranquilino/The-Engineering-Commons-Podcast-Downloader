@@ -1,5 +1,6 @@
 # The-Engineering-Commons-Podcast-Downloader
 A simple script to download all the episodes of The Engineering Commons Podcast
+[![YouTube Video Overview](https://img.youtube.com/vi/Upy5AlAl3gc/0.jpg)](https://www.youtube.com/watch?v=Upy5AlAl3gc)
 
 # Current Episodes
 
